@@ -1,1 +1,0 @@
-g++ checker.cpp -o checker -static -O2

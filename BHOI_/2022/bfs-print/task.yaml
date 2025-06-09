@@ -1,9 +1,0 @@
-name: "bfs-print"
-title: "BFS"
-time_limit: 1
-memory_limit: 256
-n_input: 33
-public_testcases: "all"
-infile: ""
-outfile: ""
-score_mode: "max_subtask"

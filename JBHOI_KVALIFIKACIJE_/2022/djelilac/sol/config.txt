@@ -1,1 +1,0 @@
-global_count 4 2 2 10 6
